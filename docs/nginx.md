@@ -1,4 +1,3 @@
-### Nginx Users
 
 By default,using Ningx as a reverse proxy to Gunicorn doesn't forward the client's IP to gunicorn. 
 As a reverse proxy, NGINX will receive HTTP requests from clients and then send those requests to our
